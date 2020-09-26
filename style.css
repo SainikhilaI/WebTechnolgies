@@ -1,0 +1,22 @@
+body{
+margin:0;
+padding:0;
+font-style:sans-serif;
+}
+.heading{
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+background:#000;
+}
+.heading h1{
+margin:0;
+padding:0;
+font-size:120px;
+color:#fff;
+}
+.heading:first-child{
+background:url(img1.jpg);
+
+}
