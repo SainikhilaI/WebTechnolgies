@@ -17,6 +17,8 @@ font-size:120px;
 color:#fff;
 }
 .heading:first-child{
-background:url(img1.jpg);
-
+background:url(IMG_20200926_154609.jpg);
+}
+.heading:last-child{
+background();
 }
