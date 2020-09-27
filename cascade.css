@@ -16,3 +16,11 @@ margin:0;
   padding:0;
   color:#fff;
 }
+.heading:first-child{
+background:url('img1.jpg')
+  background-size:cover;
+}
+.heading:last-child{
+background:url('img6.jpg')
+  background-size:cover;
+}
