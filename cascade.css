@@ -18,11 +18,11 @@ margin:0;
   font-size:300px;
 }
 .heading:first-child{
-background-image:url('img1.jpg')
+background:url(img1.jpg)
   background-size:cover;
 }
 .heading:last-child{
-background-image:url('img6.jpg')
+background:url(img6.jpg)
   background-size:cover;
 
 }
