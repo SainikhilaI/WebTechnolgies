@@ -1,10 +1,18 @@
-header
-{
-background-image:url('img1.jpg');
-height:100%;
-  baclground-size:cover;
-  background-position:center;
-  border:transparent;
-  width:100%
-}
 
+body{
+margin:0;
+  padding:0;
+font-family:sans-serif;
+}
+.heading{
+display:flex;
+  justify-content:center;
+  align-items:center;
+min-height:100vh;
+  background:#000;
+}
+.heading h1{
+margin:0;
+  padding:0;
+  color:#fff;
+}
